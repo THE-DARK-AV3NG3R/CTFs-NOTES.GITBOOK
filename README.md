@@ -1,9 +1,23 @@
-# 🖌️ Getting started
+---
+noRobotsIndex: true
+layout: editorial
+---
 
-## Welcome !
+# 🔐 Getting started
 
-A design system is a product, and similar best practices to product docs apply when documenting a design system. Offering succinct ways to get started is a great way to introduce the concepts of your design system, while empowering folks to use it for their needs.
+## Capture the Flag Documentation
 
-{% hint style="info" %}
-Use this template to introduce the concept of your design system. Outlining basic principles and ways of working to get every team on the same page.
+Welcome to the **Capture the Flag (CTF)** Documentation and Resources page. This document aims to provide both beginners and experienced players with resources, tutorials, and a curated list of upcoming and past CTF events across multiple platforms. Whether you're looking to get started or sharpen your skills, this guide will help you find everything you need.
+
+{% hint style="success" %}
+**What is a CTF?**
+
+Capture the Flag (CTF) is a type of cybersecurity competition where participants solve various security-related challenges to capture "flags." Flags are hidden pieces of data that represent successful completion of a challenge. The challenges may range from topics like:
+
+* **Cryptography**
+* **Reverse Engineering**
+* **Web Security**
+* **Binary Exploitation**
+* **Forensics**
+* **Miscellaneous (OSINT, Puzzles, etc.)**
 {% endhint %}
