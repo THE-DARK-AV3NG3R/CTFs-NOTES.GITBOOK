@@ -9,12 +9,12 @@
 * [How updates work](introduction/how-updates-work.md)
 * [Accessibility](introduction/accessibility.md)
 
-## identity
+## OS
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [Arch Linux](os/arch-linux.md)
+* [Kali Linux](os/kali-linux.md)
+* [Typography](os/typography.md)
+* [Imagery](os/imagery.md)
 
 ## Components
 
